@@ -1,0 +1,3 @@
+neki
+podaci
+za citanje u primeru gde se prikazuju primeri logovanja.
